@@ -5,7 +5,7 @@ References and sources related to AI-powered teaching and learning based on the 
 1. Agarwal, Pooja K., and Patrice M. Bain. Powerful teaching: Unleash the science of learning. John Wiley & Sons, 2024. [(link)](https://www.powerfulteaching.org/)
 2. Oakley, Barbara, and Terrence J. Sejnowski. Uncommon sense teaching: Practical insights in brain science to help students learn. Penguin, 2021.[(link)](https://barbaraoakley.com/books/uncommon-sense-teaching/)
 3. Bruff, Derek. Intentional tech: Principles to guide the use of educational technology in college teaching. West Virginia University Press, 2019. [(link)](https://derekbruff.org/2019/03/06/intentional-tech-coming-fall-2019/)
-Dehaene, Stanislas, How We Learn: Why Brains Learn Better Than Any Machine ... for Now. [New York, New York], Viking, 2020.
+4. Dehaene, Stanislas, How We Learn: Why Brains Learn Better Than Any Machine ... for Now. New York, New York, Viking, 2020.
 
 
 ## AI-Powered Intelligent Lecturing Assistant
