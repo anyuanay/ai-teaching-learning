@@ -32,6 +32,7 @@ References and sources related to AI-powered teaching and learning based on the 
 1. Tushar Abhishek, Shivprasad Sagare, Bhavyajeet Singh, Anubhav Sharma, Manish Gupta, and Vasudeva Varma. 2022. XAlign: Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages. In Companion Proceedings of the Web Conference 2022 (WWW '22). Association for Computing Machinery, New York, NY, USA, 171–175. https://doi.org/10.1145/3487553.3524265.
 2. Katsamanis, Athanasios, et al. "SailAlign: Robust long speech-text alignment." Proc. of workshop on new tools and methods for very-large scale phonetics research. Vol. 1. 2011.
 3. Zha, Yuheng, et al. "Text alignment is an efficient unified model for massive nlp tasks." Advances in Neural Information Processing Systems 36 (2023): 77942-77968.
+4. Yuheng Zha, Yichi Yang, Ruichen Li and Zhiting Hu. AlignScore: Evaluating Factual Consistency with a Unified Alignment Function. ACL 2023. [(github link)](https://github.com/yuh-zha/AlignScore)
    
 
 ## Knowledge Graphs in Education
